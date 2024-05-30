@@ -32,8 +32,9 @@ Follow the On-screen Instructions:
 Enter the paths to the text files containing matrix data.
 Select the operation you want to perform: addition, subtraction, or multiplication.
 
-path1 : /DSA-HW02-SparseMatrix/dsa/sparse_matrix/sample_inputs/easy_sample_01_1.txt
-path2 :/DSA-HW02-SparseMatrix/dsa/sparse_matrix/sample_inputs/easy_sample_01_2.txt
+## PATHS
+- **Path1:** /DSA-HW02-SparseMatrix/dsa/sparse_matrix/sample_inputs/easy_sample_01_1.txt
+- **Path2:** /DSA-HW02-SparseMatrix/dsa/sparse_matrix/sample_inputs/easy_sample_01_2.txt
 
 
 
